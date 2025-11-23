@@ -3,6 +3,12 @@
 All DOIs remain valid and accessible. Appeals pending. This suspension occurred AFTER 
 41 infringing publications were reported, while infringing content remains live.
 
+## Timeline Proof of Priority
+
+**Symfield First Publication:** May 10, 2025 (DOI: 10.5281/zenodo.15380307)  
+**Lazarev First Relevant Content:** June 22, 2025 (42 days later)  
+**Lazarev Prior Art Search:** ZERO results before May 10, 2025
+
 **Author**: Nicole Flynn, Symfield PBC  
 **Purpose**: Cryptographically timestamped record proving prior art, dates, and innovations. All DOIs minted via Zenodo (currently flagged, Nov 12, 2025; appeals pending).  
 **Verification**: GitHub commit timestamp + OpenTimestamps blockchain proof.  
