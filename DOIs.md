@@ -1,11 +1,10 @@
 # Symfield Proof-of-Existence Chain: 50+ DOI-Verified Works (2025)
 
 **Author**: Nicole Flynn, Symfield PBC  
-**Purpose**: Cryptographically timestamped record proving prior art, dates, and innovations. All DOIs minted via Zenodo (currently flagged; appeals pending).  
+**Purpose**: Cryptographically timestamped record proving prior art, dates, and innovations. All DOIs minted via Zenodo (currently flagged, Nov 12, 2025; appeals pending).  
 **Verification**: GitHub commit timestamp + OpenTimestamps blockchain proof.  
 **Last updated**: November 22, 2025  
-**ORCID**: [insert your ORCID here]
-
+**ORCID**: https://orcid.org/0009-0002-9748-4680
 | Title                                                                                           | DOI                                            | Publication Date | Type           | Key Innovation                                                                 |
 |-------------------------------------------------------------------------------------------------|------------------------------------------------|------------------|----------------|---------------------------------------------------------------------------------|
 | RCD-T₃: Resonant Curvature Displacement for Field-Coherent Propulsion                           | https://doi.org/10.5281/zenodo.17563062        | 2025-11-09       | Working Paper  | First propulsion system treating exhaust as recursive coherence field; 20.8-30.1% efficiency gains |
