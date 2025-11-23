@@ -1,4 +1,7 @@
 # Symfield Proof-of-Existence Chain: 50+ DOI-Verified Works (2025)
+**IMPORTANT**: Zenodo account suspended Nov 12, 2025 during copyright complaint process. 
+All DOIs remain valid and accessible. Appeals pending. This suspension occurred AFTER 
+41 infringing publications were reported, while infringing content remains live.
 
 **Author**: Nicole Flynn, Symfield PBC  
 **Purpose**: Cryptographically timestamped record proving prior art, dates, and innovations. All DOIs minted via Zenodo (currently flagged, Nov 12, 2025; appeals pending).  
